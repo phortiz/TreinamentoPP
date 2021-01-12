@@ -1,0 +1,7 @@
+classes = 10
+train  = /content/YOLOv3/snowman_train.txt
+valid  = /content/YOLOv3/snowman_test.txt
+names = /content/YOLOv3/classes.names
+backup = /content/drive/MyDrive/Yolo/train/weights
+
+
